@@ -1,5 +1,5 @@
 # Utility bills
-Subject : Programming fundamental II
+Subject : Programming fundamental II,
 Name : Supachai Phoosomma (6030300997)
 # Main feature
 for user : choose room, year and month to show the utility bills.
